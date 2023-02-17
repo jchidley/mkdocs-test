@@ -1,5 +1,6 @@
-site_name: Jack's Mkdocs Test Site
+site_name: Jack's Readthebooks
 nav:
     - Home: index.md
     - About: about.md
-theme: material
+theme: readthebooks
+
