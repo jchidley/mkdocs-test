@@ -2,5 +2,5 @@ site_name: Jack's Readthebooks
 nav:
     - Home: index.md
     - About: about.md
-theme: readthebooks
+theme: readthedocs
 
